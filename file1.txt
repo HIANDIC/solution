@@ -1,0 +1,1 @@
+The informations about git and GitHub are crucial for every developer and devops. With help of git and GitHub we can manage our project, files, etc. in an easy way.
